@@ -5,6 +5,7 @@ Hintergrund:
 Megalotopia:
   Ziel des Projektes ist die Schaffung einer bequemen Möglichkeit der Ersteinrichtung von Windowscomputern. Abhängig vom Nutzungsszenario soll es eine Variante mit einer GUI geben oder eine Variante welche zur unbeaufsichtigen Einrichtung gedacht ist.
   Eine Auswahl der Dinge die abgearbeitet werden sollen:
+  
     * Installation von Treibern
     * Installation von Updates
     * Installation/Einrichtung von Programmen,
