@@ -18,3 +18,6 @@ Megalotopia:
   
   Funktionsablauf unbeaufsichtigte Variante:
   Der Nutzer (in diesem Falle eine bereits mit dem Programm vertraute Person) wählt ähnlich wie in der GUI-Variante einzelne Funktionen/Einstellungen aus, nur das es hier an manchen Stellen erweiterte Funktionen gibt. Am Ende wird eine xml-Datei generiert die alle zu setzenden Änderungen enthält. Diese Datei kann im Anschluss nochmals überarbeitet/modifiziert werden. Ist der Nutzer zufrieden mit dem was die xml-Datei umsetzen soll, so kann mit dieser über verschiedene Wege eine Art interpreter gefüttert werden, der die xml Datei schliesslich umsetzt. xml-Datei und der Interpreter können über verschiedene Wege verteilt werden. 
+
+*Lizenz:*
+Vorerst wird dieses Projekt unter der Apache2-Lizenz veröffentlicht. Ein wechsel auf eine eigene (und somit auch deutschprachige) Lizenz befindet sich in der Planung.
